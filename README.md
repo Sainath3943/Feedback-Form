@@ -5,14 +5,6 @@ It was a mini-project where our team planned to make an implicit feedback form b
 
 We used .fxml files to prepare the appearance/UI of the complete form!
 
-# Preview
-
-![Alt text](image.png)
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
 # Steps for installation
 1.  You Must have JAVA and JavaFX installed in your system
 2.  How to install JavaFX:
@@ -29,7 +21,7 @@ We used .fxml files to prepare the appearance/UI of the complete form!
 
         iii. Add your path (eg. C:\Program Files\Java\javafx-sdk-21.0.1\bin) and Click Ok,its done!
 
-        
+
 3.  You can download the ZIP file or you can clone the repository!
     <br>
   a. <a href="https://github.com/yashgv/FeedbackForm">ZIP Download</a> 
@@ -49,3 +41,12 @@ We used .fxml files to prepare the appearance/UI of the complete form!
     ```
     Then run the Run.bat file!
 4. Enjoy!
+
+# Preview
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
