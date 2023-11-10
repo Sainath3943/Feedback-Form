@@ -16,11 +16,17 @@ We used .fxml files to prepare the appearance/UI of the complete form!
 # Steps for installation
 1.  You Must have JAVA and JavaFX installed in your system
 2.  How to install JavaFX:
+
       a. Click this link https://gluonhq.com/products/javafx/
+
       b. Click Download on SDK package of your suitable system and extract it into the directory where Java folder is placed for your convinience (eg C:\Program File\Java\   Extract here)
+
       c. Add path into your system variables:
+
         i. Search Environment System Variable in your start menu.
+
         ii. Click on Path and create new Path.
+
         iii. Add your path (eg. C:\Program Files\Java\javafx-sdk-21.0.1\bin) and Click Ok,its done!
 3.  You can download the ZIP file or you can clone the repository!
     <br>
