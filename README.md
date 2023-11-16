@@ -6,7 +6,7 @@ It was a mini-project where our team planned to make an implicit feedback form b
 We used .fxml files to prepare the appearance/UI of the complete form!
 
 # Steps for installation
-1.  You Must have JAVA and JavaFX installed in your system
+1.  You Must have JAVA(latest 21) and JavaFX installed in your system
 2.  How to install JavaFX:
 
       a. Click this link https://gluonhq.com/products/javafx/
