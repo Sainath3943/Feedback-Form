@@ -24,7 +24,7 @@ We used .fxml files to prepare the appearance/UI of the complete form!
 
 3.  You can download the ZIP file or you can clone the repository!
     <br>
-  a. <a href="https://github.com/yashgv/FeedbackForm">ZIP Download</a> 
+  a. <a href="https://github.com/Sainath3943/Feedback-Form">ZIP Download</a> 
      Extract it and run the Run.bat file
     <br>
                 OR
@@ -37,7 +37,7 @@ We used .fxml files to prepare the appearance/UI of the complete form!
     cd <YourPath>
     ```
     ```
-    git clone https://github.com/yashgv/FeedbackForm.git
+    git clone https://github.com/Sainath3943/FeedbackForm.git
     ```
     Then run the Run.bat file!
 4. Enjoy!
